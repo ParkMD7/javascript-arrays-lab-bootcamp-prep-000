@@ -34,3 +34,8 @@ function removeLastKitten(name) {
   var newKittensArray = kittens.pop(name)
   return newKittensArray
 }
+
+function removeLastKitten(name) {
+  var newKittensArray = kittens.pop(name)
+  return newKittensArray
+}
